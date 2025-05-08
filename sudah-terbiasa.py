@@ -91,7 +91,7 @@ def main():
 
         # Animated lyrics
         lyrics_lines = [
-            "tantee",
+            "tanteee",
             "sudah terbiasa terjadi tante.....",
             "teman datang ketika lagi butuh saja ",
             "coba kalo lagi susah.....",
