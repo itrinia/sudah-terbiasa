@@ -63,7 +63,7 @@ def add_bg_and_styling():
 
 
 # Set animation speed per line (seconds per character)
-LINE_SPEEDS = [0.5, 0.1, 0.12, 0.1, 0.18, 0.2]  # Adjust these values manually per line
+LINE_SPEEDS = [3.0, 0.1, 0.12, 0.1, 0.18, 0.2]  # Adjust these values manually per line
 
 # Main app function
 def main():
